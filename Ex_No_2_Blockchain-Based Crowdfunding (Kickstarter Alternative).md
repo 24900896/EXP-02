@@ -1,4 +1,8 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+
+# Name:Sandeep S
+# Reg No:212224230239
+
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
@@ -62,12 +66,18 @@ contract Crowdfunding {
 ```
 # Expected Output:
 Users can contribute ETH to the campaign.
+<img width="1830" height="844" alt="image" src="https://github.com/user-attachments/assets/854cad02-7e6c-418c-a811-c140ec7ff964" />
+
 
 
 If the goal is met, the creator can withdraw funds.
+<img width="1832" height="871" alt="image" src="https://github.com/user-attachments/assets/fa5e1196-a419-4478-9b81-3d3a5b926d47" />
+
 
 
 If the goal is not met, contributors can claim a refund.
+<img width="1829" height="841" alt="image" src="https://github.com/user-attachments/assets/24a751d2-0b23-452d-810b-a9980afdbfe1" />
+
 
 
 # High-Level Overview:
@@ -77,3 +87,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus created a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met is executed successfully.
